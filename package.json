@@ -30,6 +30,7 @@
 		"@bulatdashiev/svelte-slider": "^1.0.3",
 		"@supabase/supabase-js": "^2.48.0",
 		"@sveltejs/adapter-static": "^3.0.8",
+		"@sveltejs/adapter-vercel": "^5.7.0",
 		"body-parser": "^1.20.3",
 		"d3": "^7.9.0",
 		"express": "^4.21.2",
